@@ -1,3 +1,14 @@
+# License for Bevy Cheatbook
+
+This license is used for [Bevy Cheatbook](https://bevy-cheatbook.github.io):
+
+ - All code in the book is provided under this license.
+ - If used for the purpose of contribution to the Official Bevy Project
+ and/or its Official Documentation, the entire content of the book may be used
+ under this license.
+   - Otherwise, this license does *NOT* cover any non-code parts of the book.
+ - 3rd-party contributions to the book are accepted under this license.
+
 # The "MIT No Attribution" (MIT-0) License
 
 The "MIT No Attribution" or "MIT-0" license is a modification to the
@@ -28,7 +39,7 @@ language removed fills this need.
 ```
 MIT No Attribution
 
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright © 2021 Jasen Borisov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
